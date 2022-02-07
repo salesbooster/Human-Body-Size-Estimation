@@ -10,4 +10,3 @@ https://exceloffthegrid.com/list-of-all-possible-combinations-using-power-query/
 ### For Classification Model Dataset - SHIRT is prepared by considering this standardised measurements:
 https://media.craftyarncouncil.com/sites/default/files/images/standards/CYC_YarnStandards-2018-11-06.pdf
 
-<-------------------------------- THANK YOU -------------------------------->
