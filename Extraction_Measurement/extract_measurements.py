@@ -123,8 +123,8 @@ def extract_measurements(height, vertices):
     shoulder = "{:.2f}".format(measure[8][0])
     sleeve_length = "{:.2f}".format(measure[6][0])
     waist = "{:.2f}".format(measure[1][0])
-    
-    print(chest + " " + shoulder + " " + sleeve_length + " " + waist)
+    hips = "{:.2f}".format(measure[9][0])
+    print(chest + " " + shoulder + " " + sleeve_length + " " + waist + " " + hips)
     
     # arr = []
     # for i in range(0, utils.M_NUM):
